@@ -3,6 +3,10 @@
 These are my coding-stats: <br>
 [![wakatime](https://wakatime.com/badge/user/c227c5db-44d8-4c2c-b3fa-35ee3f5f0f0b.svg)](https://wakatime.com/@c227c5db-44d8-4c2c-b3fa-35ee3f5f0f0b) (partially recorded)
 
+🔭 **I’m currently working on:** My first VST Plugin and trying out C++!
+* **Repository:** [Neural Resynthesize VST](https://github.com/tom-schmidt-dev/first-vst)
+
+
 🔭 **I’m currently working on:** My first Android App and learning Kotlin! Following the [Clean Architecture Tutorial by Philipp Lackner](https://www.youtube.com/watch?v=8YPXv7xKh2w).
 * For already [![wakatime](https://wakatime.com/badge/github/wocif/CleanArchitectureNoteApp.svg)](https://wakatime.com/badge/github/wocif/CleanArchitectureNoteApp)
 * **Repository:** [wocif/CleanArchitectureNoteApp](https://github.com/wocif/CleanArchitectureNoteApp) (Fork of [philipplackner/CleanArchitectureNoteApp](https://github.com/philipplackner/CleanArchitectureNoteApp))
